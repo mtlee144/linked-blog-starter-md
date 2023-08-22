@@ -7,6 +7,7 @@
 [[Arlingford]]
 [[Mystfall]]
 [[The Menagerie]]
-[[The Runeguard]]
+[[Stormpeak Haven]]
+[[Somberloft]]
 [[The Shattered Peaks]]
 [[Thesah]]

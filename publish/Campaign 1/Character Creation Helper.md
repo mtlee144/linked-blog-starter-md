@@ -348,62 +348,23 @@ Here are some questions for each class to think about. Look at the ‘Creating a
 
 ## Worldbuilding
 
-Druid Circles
-[https://www.reddit.com/r/DnDBehindTheScreen/comments/43zldn/druids_branches_orders_and_the_shadow_circle/](https://www.reddit.com/r/DnDBehindTheScreen/comments/43zldn/druids_branches_orders_and_the_shadow_circle/)
+| Type             | Link                                                                                                                                                                                                                   |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Druid Circles    | [https://www.reddit.com/r/DnDBehindTheScreen/comments/43zldn/druids_branches_orders_and_the_shadow_circle/](https://www.reddit.com/r/DnDBehindTheScreen/comments/43zldn/druids_branches_orders_and_the_shadow_circle/) |
+| Monk Monastery   | [https://www.reddit.com/r/DnDBehindTheScreen/comments/bfbalz/lets_build_a_monastery/](https://www.reddit.com/r/DnDBehindTheScreen/comments/bfbalz/lets_build_a_monastery/)                                             |
+| Temple           | [https://www.reddit.com/r/DMAcademy/comments/8n44cf/what_to_put_in_a_temple/](https://www.reddit.com/r/DMAcademy/comments/8n44cf/what_to_put_in_a_temple/)                                                                                                                                                                                                                       |
+| Town/City        | [https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxfav/lets_build_a_city/](https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxfav/lets_build_a_city/)                                                                                                                                                                                                                      |
+| Tribes           | [https://www.reddit.com/r/DnD/comments/2nzj8z/5e_need_help_constructing_tribes_for_homebrew/](https://www.reddit.com/r/DnD/comments/2nzj8z/5e_need_help_constructing_tribes_for_homebrew/)                                                                                                                                                                                                                        |
+| Noble House      | [https://www.reddit.com/r/DnDBehindTheScreen/comments/6igq7k/breathing_life_into_a_noble_house/](https://www.reddit.com/r/DnDBehindTheScreen/comments/6igq7k/breathing_life_into_a_noble_house/)                                                                                                                                                                                                                        |
+| Ship             | [https://www.reddit.com/r/DnD/comments/beb9rm/help_me_create_a_pirate_ship/](https://www.reddit.com/r/DnD/comments/beb9rm/help_me_create_a_pirate_ship/) , [https://www.reddit.com/r/DnDBehindTheScreen/comments/3i6azd/pirates_ships_but_mostly_ships_this_time/](https://www.reddit.com/r/DnDBehindTheScreen/comments/3i6azd/pirates_ships_but_mostly_ships_this_time/)                                                                                                                                                                                                                        |
+| Thieves Guild    | [https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxfyy/lets_build_a_thieves_guild_part_1/](https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxfyy/lets_build_a_thieves_guild_part_1/) , [https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxg1c/lets_build_a_thieves_guild_part_2/](https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxg1c/lets_build_a_thieves_guild_part_2/)                                                                                                                                                                                                                        |
+| Order of Knights | [https://www.reddit.com/r/DnD/comments/4b0chd/need_ideas_for_knightly_orders/](https://www.reddit.com/r/DnD/comments/4b0chd/need_ideas_for_knightly_orders/)                                                                                                                                                                                                                        |
+| Troupe           | [https://www.reddit.com/r/BehindTheTables/comments/61adtf/acting_troupes/](https://www.reddit.com/r/BehindTheTables/comments/61adtf/acting_troupes/)                                                                                                                                                                                                                        |
+| Orphanage        | [https://www.dndbeyond.com/forums/d-d-beyond-general/story-lore/22036-making-orphans-better](https://www.dndbeyond.com/forums/d-d-beyond-general/story-lore/22036-making-orphans-better)                                                                                                                                                                                                                        |
+| University                 |[https://thealpinedm.com/arcane-institution/](https://thealpinedm.com/arcane-institution/), [https://www.reddit.com/r/DnD/comments/6gvz7y/how_to_build_a_wizard_academy/](https://www.reddit.com/r/DnD/comments/6gvz7y/how_to_build_a_wizard_academy/)                                                                                                                                                                                                                         |
 
-Monk Monasteries
 
-[https://www.reddit.com/r/DnDBehindTheScreen/comments/bfbalz/lets_build_a_monastery/](https://www.reddit.com/r/DnDBehindTheScreen/comments/bfbalz/lets_build_a_monastery/)
 
-Temple
-
-[https://www.reddit.com/r/DMAcademy/comments/8n44cf/what_to_put_in_a_temple/](https://www.reddit.com/r/DMAcademy/comments/8n44cf/what_to_put_in_a_temple/) 
-
-Town/City
-
-[https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxfav/lets_build_a_city/](https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxfav/lets_build_a_city/) 
-
-Tribes
-
-[https://www.reddit.com/r/DnD/comments/2nzj8z/5e_need_help_constructing_tribes_for_homebrew/](https://www.reddit.com/r/DnD/comments/2nzj8z/5e_need_help_constructing_tribes_for_homebrew/) 
-
-Noble House
-
-[https://www.reddit.com/r/DnDBehindTheScreen/comments/6igq7k/breathing_life_into_a_noble_house/](https://www.reddit.com/r/DnDBehindTheScreen/comments/6igq7k/breathing_life_into_a_noble_house/) 
-
-Ship
-
-[https://www.reddit.com/r/DnD/comments/beb9rm/help_me_create_a_pirate_ship/](https://www.reddit.com/r/DnD/comments/beb9rm/help_me_create_a_pirate_ship/) 
-
-  
-
-[https://www.reddit.com/r/DnDBehindTheScreen/comments/3i6azd/pirates_ships_but_mostly_ships_this_time/](https://www.reddit.com/r/DnDBehindTheScreen/comments/3i6azd/pirates_ships_but_mostly_ships_this_time/) 
-
-Thieves guild
-
-[https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxfyy/lets_build_a_thieves_guild_part_1/](https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxfyy/lets_build_a_thieves_guild_part_1/) 
-
-  
-
-[https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxg1c/lets_build_a_thieves_guild_part_2/](https://www.reddit.com/r/DnDBehindTheScreen/comments/2uxg1c/lets_build_a_thieves_guild_part_2/) 
-
-Order of Knights
-
-[https://www.reddit.com/r/DnD/comments/4b0chd/need_ideas_for_knightly_orders/](https://www.reddit.com/r/DnD/comments/4b0chd/need_ideas_for_knightly_orders/) 
-
-Troupe
-
-[https://www.reddit.com/r/BehindTheTables/comments/61adtf/acting_troupes/](https://www.reddit.com/r/BehindTheTables/comments/61adtf/acting_troupes/) 
-
-Orphans/Orphanage
-
-[https://www.dndbeyond.com/forums/d-d-beyond-general/story-lore/22036-making-orphans-better](https://www.dndbeyond.com/forums/d-d-beyond-general/story-lore/22036-making-orphans-better) 
-
-University
-
-[https://thealpinedm.com/arcane-institution/](https://thealpinedm.com/arcane-institution/) 
-
-[https://www.reddit.com/r/DnD/comments/6gvz7y/how_to_build_a_wizard_academy/](https://www.reddit.com/r/DnD/comments/6gvz7y/how_to_build_a_wizard_academy/) 
 
   
 

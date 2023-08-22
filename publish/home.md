@@ -4,12 +4,15 @@ title: Welcome to Adestria
 
 # Campaign One
 - [[House Rules]]
+- [[Character Creation Helper]]
+
+#### Sessions
 - [[Session Zero]]
 
 ## Continents
-Laylan
-	- [[East Laylan]]
-	- [[West Laylan]]
+Several continents span the plane of Adestria
+- [[East Laylan]]
+- [[West Laylan]]
 - [[Mahra Coulta]]
 - [[Ashtary]]
 - [[Vel'Ruach]]
@@ -77,6 +80,7 @@ Here are the aristocracy set up by the [[Paradian Empire]]
 
 
 ## Organisations
+There are many known organisations across Adestria, here are a couple. I tried to make one as an example for each class, if you want to design your own they are in the [[Character Creation Helper]].
 - [[Acquisitions Incorporated]]
 - [[Brotherhood of the Iron Rams]]
 - [[College of the Herald]]
@@ -125,3 +129,6 @@ Genasi
 - [[Currency]]
 - [[Celestial Bodies]]
 - [[Known Phenomena]]
+
+[[Botanical of Adestria]]
+[[Bestiary of Adestria]]

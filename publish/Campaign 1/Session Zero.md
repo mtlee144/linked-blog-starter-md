@@ -17,12 +17,7 @@ This is a world I built for you guys not myself, I'd love it if you wanted to in
 
 It's partly why the setting itself is fairly generic, to allow for a wider birth of ideas that you want to bring.
 
-
-#### Download Obsidian
-It's a note taking app that I have used to create a wiki that you are able to freely explore and add to.
-- Not mandatory
-
-Github you can then pull whenever you want to update the vault and push any updates you desire.
+This is wiki -> https://adestria.vercel.app/home
 
 #### Note Taking
 Would love a designated note taker though this can change each session. You can use Obsidian to do that and link it to other elements within the world.

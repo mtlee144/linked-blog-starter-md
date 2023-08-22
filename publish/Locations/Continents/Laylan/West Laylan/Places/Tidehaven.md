@@ -1,0 +1,5 @@
+#location 
+
+Tidehaven is a picturesque coastal town nestled along a stunning stretch of sandy beach. The town's unique feature is a colossal frozen wave, solidified in time, along with the monstrous kraken trapped within it. The townsfolk have ingeniously adapted to this extraordinary phenomenon, transforming the frozen threat into a central part of their culture and daily life.
+
+Tidehaven stands as a testament to the triumph of the human spirit and the indomitable nature of the town's inhabitants. The frozen kraken and the solidified wave have become central to the town's identity and culture, inspiring creativity, celebration, and unity among its residents. The frozen threat has been transformed into an emblem of their resilience and a constant reminder of the wizard Crain's selfless sacrifice, forever ingrained in the fabric of the town.

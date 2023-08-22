@@ -9,6 +9,6 @@ The Western Side of the largest continent of Laylan contains the following place
 - [[Port Damby]]
 - [[Riverrun]]
 - [[Rubblehusk]]
-- [[Town Crain]]
+- [[Tidehaven]]
 - [[Wavetale]]
 - [[Zerifah, City of Alchemy]]
