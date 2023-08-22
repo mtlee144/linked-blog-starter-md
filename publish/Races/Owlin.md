@@ -1,0 +1,2 @@
+#Worldbuilding 
+These creatures were born within the [[Nocturne]], by the original [[Aarakocra]] that dreamed of knowledge rather than power. Separate from the [[Kalashtar]] they flew from the Domain of Dreams early on and began their search. Generations of searching required secrecy and a silence that gave them different features, softer wings for gliding, and larger eyes for nocturnal activity.

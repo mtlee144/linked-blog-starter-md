@@ -1,0 +1,3 @@
+#Worldbuilding 
+
+There exists a children’s tale of a Lost City in Adestria, hidden even below the [[Underdark]], that speaks of any treasure imaginable where children are warned that being greedy will lure the Yuan-Ti from their city to snatch them away. Those who have been lured by this notion have found themselves magically within this city, though the longer they stay the more their body begins to resemble the other inhabitants, the Yuan-Ti.

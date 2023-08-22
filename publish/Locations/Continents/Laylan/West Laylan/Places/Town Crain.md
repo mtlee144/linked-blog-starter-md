@@ -1,0 +1,3 @@
+#location 
+
+A beach bottom left of West Laylan where a kraken was about to attack, but a wizard (Crain) who is a master of time-based magic sacrificed themself, freezing them, the kraken, and the tidal wave the kraken summoned, frozen in time. Since the wave is solid, it has the properties of dense stone rather than water, and the city has expanded to build on top of it and the kraken. Water has begun to leak though.

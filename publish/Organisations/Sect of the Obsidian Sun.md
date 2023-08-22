@@ -1,0 +1,2 @@
+#Organisations 
+A religious cult that came to prominence 740 years prior to Campaign 1 in the 1700s. As a sect of the [[Holy Guild of Belial]] they believe that the black sun (Shakhor) of Adestria is actually more beneficial to Adestria than the white sun (Lavan), that the theology that [[Belial, The Judge|Belial]] governs in neutral fairness is wrong, that the Holy Guild has forgotten its roots of worship to the suns that give life and henceforth should be honoured above it. They seek to spread this belief and become the seat of authority in regard to its forefather.

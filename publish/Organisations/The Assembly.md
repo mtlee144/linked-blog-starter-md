@@ -1,0 +1,2 @@
+#Organisations 
+A group of mages who were rejected from [[The Accordance]] for dangerous, taboo magic like making pacts with devils instead of learning and developing magic. They are supposedly under close watch by those of [[The Accordance]].

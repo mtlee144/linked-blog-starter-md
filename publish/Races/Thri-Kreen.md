@@ -1,0 +1,2 @@
+#Worldbuilding 
+Humanoid insects that thrive in Matriarchal colonies. Their females are moth-like and dainty, flitting from tree to tree taking care of the young whilst the male beetles hunt diligently for food. Living by a caste system the queen’s eggs are coloured to determine their class and from birth these spawn are set to fulfil that duty in the hope of moving up in their next spawn.
