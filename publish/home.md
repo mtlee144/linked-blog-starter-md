@@ -12,7 +12,8 @@ banner_y: 0.18
 - [[Session Zero]]
 
 ## Continents
-Several continents span the plane of Adestria
+Several continents span the plane of Adestria 
+<span class="rightimg"><span class="smallimg">![[Adestria.jpg]]</span></span>
 - [[East Laylan]]
 - [[West Laylan]]
 - [[Mahra Coulta]]
