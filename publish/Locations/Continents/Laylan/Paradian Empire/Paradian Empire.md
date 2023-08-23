@@ -7,7 +7,7 @@ By the power of the founding ruler Set Paradian and his right hand man Gren [[Ho
 Though each faction has vastly different ideologies they manage to coexist together under the Paradian rule.
 
 ### Governance
-The Paradian Empire is Chaotic Good by nature, striving for the good of the world by unifying everything under its rule.
+The Paradian Empire strives for the good of the world by unifying everything under its rule.
 
 They function by collecting tithes from villages and factions under their rule as payment for their symbol being allowed to fly there.
 

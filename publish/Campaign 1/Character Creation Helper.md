@@ -1,5 +1,5 @@
 ## Before you begin
- Whatever character you genuinely want to make, no matter how fantastical, let's try and figure out how it'd work - we could make a new race/class too
+Whatever character you genuinely want to make, no matter how fantastical, let's try and figure out how it'd work -we could make a new race/class too
 
 
 Imagine your character in a movie scene, what makes them stand out, what would they do for that cool moment as they enter, do they have any quirks or visual notes that the audience would notice as soon as they appear?

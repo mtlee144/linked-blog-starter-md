@@ -10,6 +10,8 @@ We commit to a regularly scheduled session every 2 weeks
 This would be a wonderful thing to get set up since I'll be heading to China for a year and want to regularly see you and keep playing this campaign.
 - Aside from my own poor planning when it came to the creating the last campaign it was difficult to stay motivated when we went months without anything
 
+	Time: Saturday 5-10pm (Chatswood)
+
 #### Adestria
 This is a world I built for you guys not myself, I'd love it if you wanted to invest and make things for it.
 - Create your own city that evolves within the world

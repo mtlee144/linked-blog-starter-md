@@ -9,14 +9,13 @@ On a successful saving throw with damage or healing (if applicable), the roll is
 PCs roll their save behind the DM screen and shouldn't give away any reaction. DM will also ask for a memory of the PC before they roll.
 
 If there are three successes the player will stabilise in that turn but will be unable to rejoin combat till their next one.
+- clarify rejoining with 1 health
 
 ## Stabilising in Combat
-If a PC is stabilised enough to return to combat (more than 0 health) the PC returns with another level of exhaustion that lasts for an hour.
-
-If a PC stabilises to 0 health i.e. not through any healing, they will gain 1 level of exhaustion.
+If a PC is stabilised (without healing) and returns to combat the PC returns with another level of [exhaustion](https://www.dndbeyond.com/sources/phb/appendix-a-conditions#Exhaustion) that lasts for an hour.
 
 ### Player Help
-Another player can use a melee help action once per down, rolling a Medicine Check DC10 to give the downed PC a death saving throw.
+Another player can use a melee help action once per down, rolling a Medicine Check DC10:
 - If successful the downed PC gains one success
 - If unsuccessful, it will count as a fail to their death saving throws
 
@@ -65,11 +64,15 @@ Since this is a bonus action it is separate to attacks made with the 'Extra Atta
 
 
 ### Free
+
+#### Talking/Checks
+Whatever is reasonable within the 6 seconds, we will upscale this as it seems appropriate.
+
 #### Swapping Weapons
 No cost 
 
 ## Spellcasting 
-Magic Missiles - roll each dice (it's more fun than rolling one)
+Magic Missiles - roll each dice (it's more fun than rolling one die)
 
 ### Concentration
 If you're concentrating you need to wear the santa hat - dubbed the concentration dunce cap because we suck at remembering that's something we need to do :D

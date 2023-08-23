@@ -1,5 +1,7 @@
 ---
 title: Welcome to Adestria
+banner: "![[Adestria.jpg]]"
+banner_y: 0.18
 ---
 
 # Campaign One
