@@ -5,7 +5,7 @@ alias: Lady Frost, A'Llonnah
 #god #npc 
 
 Sister of E’Lliira, A’Llonnah freezes all regardless of status or race as the embodiment of winter’s cruelty. Her frosted whisper seeps deeply into whatever she chooses, chilling it to the point where any function ceases to work.
-<span class="rightimg"><span class="smallimg">![[A'Llonnah.png]]</span></span>
+<span class="rightimg"><span class="smallimg">![[A'Llonnah.jpg]]</span></span>
   
 
 Called Lady Frost by her few worshippers she has a heart of ice to match her lethally cold beauty. Her nature puts her at odds with [[Karthor, god of Fire and Forge|Karthor]] and his followers despite their shared ideals.

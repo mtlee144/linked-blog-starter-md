@@ -7,7 +7,6 @@ banner_y: 0.18
 # Campaign One
 - [[House Rules]]
 - [[Character Creation Helper]]
-
 #### Sessions
 - [[Session Zero]]
 

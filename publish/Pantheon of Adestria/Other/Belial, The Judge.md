@@ -4,7 +4,7 @@ alias: Belial
 
 #god #npc 
 The two suns, Shakhor and Lavan, trace the sky of Adestria ever in harmony by the power of Belial the Judge. His scales judge fairly just as his suns shed light and magic upon the Material Plane. When Belial is not guiding the suns through the sky, it is believed [[Iora, goddess of the Moon|Iora]] governs the sky instead.
-<span class="rightimg"><span class="smallimg">![[Belial.png]]</span></span>
+<span class="rightimg"><span class="smallimg">![[Belial.jpg]]</span></span>
   
 
 The [[Holy Guild of Belial]] began as a church in [[The Age of Conduits]] honouring and worshipping the two suns and now serve as judges when concerning legal matters and merchant issues.

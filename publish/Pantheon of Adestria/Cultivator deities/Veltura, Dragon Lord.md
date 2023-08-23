@@ -4,7 +4,7 @@ alias: Veltura
 
 #god #npc 
 Master of storms, bringer of rain, within the clouds and roar of the wind stands Veltura, Lord of Dragons. With each swipe of his claws, thunder rocks the earth, a beat of his wings sends blizzards forth. Just his presence alone keeps the forces of evil at bay.
-<span class="rightimg"><span class="smallimg">![[Veltura.png]]</span></span>
+<span class="rightimg"><span class="smallimg">![[Veltura.jpg]]</span></span>
 
 
 Alongside his brother [[Ashtar, The Protector|Ashtar]], this tempest of azure scales is the progenitor of all dragons, his divine lightning courses through them all whether they want it or not, yet none can defy his authority. As a result, all dragonkind can always feel his presence bearing over them, nurturing them, forcing them to be stronger.

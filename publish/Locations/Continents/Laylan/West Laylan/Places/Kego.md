@@ -6,6 +6,8 @@ banner_y: 0.464
 # Kego
 #location 
 
+![[Kego.jpg]]
+
 Kego is a lantern lit city across a junction of a river within the [[Paradian Jungle]]. The whole city is built along the large trunks of the trees along this area of the jungle with Japanese Hashi bridges erected between the trees passing over the river.
   
 

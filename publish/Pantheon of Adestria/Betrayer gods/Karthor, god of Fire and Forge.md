@@ -4,7 +4,7 @@ alias: Karthor
 
 #god #npc 
 Blazing infernos, clanging steel, bubbling lava all find their origin in Karthor. By his hand he forged mountain ranges into erupting volcanos that reshaped the lands beneath, his breath brought fire to the nations and by his axe the Cultivator Deities were almost sent running.
-<span class="rightimg"><span class="smallimg">![[Karthor.png]]</span></span>
+<span class="rightimg"><span class="smallimg">![[Karthor.jpg]]</span></span>
   
 
 Worshipped by smiths, artisans, and miners alike, Karthor has earned his devotion by the works of his hands and the bellow of his fires. Those who seek to join are not given instruction but are expected to learn by watching and doing.

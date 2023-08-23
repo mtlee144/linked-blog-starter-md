@@ -4,7 +4,7 @@ alias: Tahaanu
 
 #god #npc 
 Bringer of glory, revelry, and heroes, Tahaanu blesses many with the champion’s path and the hero's journey. Almost all known heroes in history have at some point been favoured by this deity, blessed with his divine energy in numerous ways they are sent into battle, destined for greatness.
-<span class="rightimg"><span class="smallimg">![[Tahaanu.png]]</span></span>
+<span class="rightimg"><span class="smallimg">![[Tahaanu.jpg]]</span></span>
   
 
 Due to the nature of those who are blessed by Tahaanu and the ensuing festivals that occur in their honour, he is also known as the god of Revel and many towns and cities will celebrate The Revelry in the hope that Tahaanu may bless someone from their home.

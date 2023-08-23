@@ -3,7 +3,7 @@ alias: Arkan, Arisen One
 ---
 
 #god #npc 
-<span class="rightimg"><span class="smallimg">  ![[Arkan.png]]</span></span>
+![[Arkan.jpg]]
 A mage of unparalleled power, knowledge, and greed who tore past the mortal limits and became a god by striking the Tree of Life. Ascending to godhood and forcing the gods to seal themselves further away by creating a Divine Gate.
 
   

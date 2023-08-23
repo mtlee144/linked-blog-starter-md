@@ -4,7 +4,7 @@ alias: O'llon
 
 #god #npc 
 Magic is music; the incantations spoken are lyrics, the somatic gestures are dances. This is what O'llon presides over. Whether they understand that or not, many who pursue one intertwine themselves with the other to the chagrin of many wizards. With jolly rotundness O’llon heralds the ever changing nature of music and magic, with his lute he weaves magic throughout the land of Adestria.
-<span class="rightimg"><span class="smallimg">![[Ollon.png]]</span></span>
+![[Ollon.jpg]]
   
 
 Only the bards acknowledge his command over all things arcane yet and fewer still choose to worship him, yet O’llon cares not as he strums away thankful for the opportunity he has been given.

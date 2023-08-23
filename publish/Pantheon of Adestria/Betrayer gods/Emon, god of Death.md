@@ -4,7 +4,7 @@ aliases: Emon, Kirat
 
 #god #npc 
 As E’Lliira brings life, Emon oversees death and the passage of the soul. With a soft jingle he appears to those whose time is near and whisks them away gently. The wicked are promised a different end though as screams and anguish and gnashing of teeth precede their death.
-<span class="rightimg"><span class="smallimg"> ![[Emon.png]]</span></span>
+<span class="rightimg"><span class="smallimg"> ![[Emon.jpg]]</span></span>
   
 
 Though his domain causes grief, many do not despise him for it and devout followers worship his fairness with great reverence. 

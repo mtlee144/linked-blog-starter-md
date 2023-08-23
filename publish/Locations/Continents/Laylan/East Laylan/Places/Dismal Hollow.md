@@ -4,7 +4,7 @@ banner_y: 0.552
 ---
 # Dismal Hollow
 #location 
-
+![[Dismal Hollow.jpg]]
 A small village located in a swamp, in which the buildings and walkways are built atop stilts so the structures sit just atop the water. The town is home to a small handful of peaceful warlock humans and was originally settled as a military outpost. 
   
 

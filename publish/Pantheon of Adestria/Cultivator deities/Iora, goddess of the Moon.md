@@ -5,7 +5,7 @@ alias: Iora, She Who Guides
 #god#npc 
 
 The twilit transition from light into darkness brings comfort and calm, as the day’s labours end and the hours of rest begin. Iora, goddess of the moon Yerah, holds dominion over the night as she guides the lost with her soft light. Her hand rests upon the world at night bringing comfort to children, illuminating the stars to guide sailors and keeping the suns, Lavan and Shakhor, in check. Many sailors, diviners and peacekeepers worship Iora, giving her the moniker She Who Guides. Those who mock her name are believed to never complete their journey.
-<span class="rightimg"><span class="smallimg">![[Iora.png]]</span></span>
+<span class="rightimg"><span class="smallimg">![[Iora.jpg]]</span></span>
 
 
 After the Divine Law was established Iora created the Tiefling race to reflect her image though they weren't fully to her liking and proceeded to allow any of the gods the ability to govern and create their own tiefling subrace.

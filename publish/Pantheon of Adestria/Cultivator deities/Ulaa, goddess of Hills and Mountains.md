@@ -4,7 +4,7 @@ alias: Ulaa, Landbearer
 
 #god #npc 
 From rolling hills to jagged peaks, Ulaa, the Landbearer, holds it all close to her bosom hiding bounties and dangers deep within. She shaped the mountain ranges and [[Underdark]] tunnels with her warhammer SkullRinger. More uncommonly she is the patron protector of the hearth and home and is often depicted within wooden reliefs above fireplaces in people’s homes, though many have not made the connection.
-<span class="rightimg"><span class="smallimg">![[Ulaa.png]]</span></span>
+<span class="rightimg"><span class="smallimg">![[Ulaa.jpg]]</span></span>
   
 From the dirt and using her likeness, [[The Creator]] brought forth the dwarven race and she loves them like a mother does for her child. Despite the [[Dwarves]]' natural reverence for her, many do not actively worship her though for any land dweller it’s difficult to ignore her presence within the ground they hold to. Those who do choose to worship Ulaa often show respect to her husband [[Tokki, god of the Forests|Tokki]] as the caretaker of all plant life, hence majority of temples to Ulaa are partnered with [[Tokki, god of the Forests|Tokki]].
 

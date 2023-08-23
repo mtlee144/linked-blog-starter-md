@@ -4,7 +4,7 @@ alias: Ashtar, The Protector
 
 #god #npc 
 God of the elves, brother of [[Veltura, Dragon Lord|Veltura]], Ashtar protects the Tree of Life with righteous fury as his sworn duty.
-<span class="rightimg"><span class="smallimg">![[Ashtar.png]]</span></span>
+<span class="rightimg"><span class="smallimg">![[Ashtar.jpg]]</span></span>
   
 
 Ashtar chose not to take part in the creation of the dragonkind, instead creating a race that would live long with high affinity to magic as sworn protectors and helpers.
