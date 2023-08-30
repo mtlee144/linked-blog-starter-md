@@ -74,6 +74,7 @@ On top of that, I’d love to have you describe a memory that flashes through th
 ### Knives, Spoons and Forks 
 
 5 knives - a potential plot hook, an element from your past, a spurned lover, something that can be used to create conflict and make it personal. A knife is forged lovingly by the player and presented to the DM to stab them with it. Should only be two well worded sentences so I can flesh them out.
+- Often basing at least one in your race, one in class, one in backstory is a good start.
 
   
 
@@ -249,6 +250,11 @@ Here’s a character idea using this -> Ezekiel is an incredibly rich man, his c
     
 -     
     
+
+### Example
+Here's a character I cooked up for my church dnd group using much of this character creation method
+
+[Thaddeus Aurelius Rayleigh Thatch](https://docs.google.com/document/d/1UjlbgdKnFC-MKYs_tdI3HmnIeTmIHRnJdwOwNpdmpYY/edit?usp=sharing)
 
 ## Races
 

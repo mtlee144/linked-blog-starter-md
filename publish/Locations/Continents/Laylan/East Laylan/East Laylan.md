@@ -1,5 +1,7 @@
 #Continent
 
+![[remote-site/publish/Pictures/East Laylan (1).jpg]]
+
 The Eastern Side of the largest continent of Laylan contains the following places:
 
 - [[Blackstone Legion]]

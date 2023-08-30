@@ -1,5 +1,7 @@
 #Continent 
 
+![[remote-site/publish/Pictures/West Laylan Map.jpg]]
+
 The Western Side of the largest continent of Laylan contains the following places:
 
 - [[Veridian Enclave]]

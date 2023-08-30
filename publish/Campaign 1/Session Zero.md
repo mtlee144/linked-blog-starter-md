@@ -57,7 +57,9 @@ Here are some world prompters, things or events within the world that you'd migh
 - Different planes
 
 ##### Races
-Each of the races I customised are only that, if you want to use the original you can. I attempted to give each race their own racial plotline that you can choose to use or not.
+The races listed are only those that I have customised, all races are within the world of Adestria.
+
+If you want to use the original you can. I attempted to give each race their own racial plotline that you can choose to use or not.
 
 **One standard magic item and then one personal, unique one (something integrated with your backstory)**
 

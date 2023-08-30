@@ -1,5 +1,6 @@
 #location 
 
+
 Largely unexplored by those not indigenous. Those indigenous are mainly elves though some other peculiar and exotic races have been found traversing the land. It cannot be mapped as the landscape is constantly shifting from an unknown force. Due to this the inhabitants learn all the landscapes as biomes and how to traverse them unknowing where the next one will lead.
 
 
