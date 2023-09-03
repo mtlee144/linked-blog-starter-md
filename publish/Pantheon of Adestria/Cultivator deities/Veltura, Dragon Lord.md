@@ -37,3 +37,9 @@ A bloodline that causes extreme pain in the bearer, described as boiling blood t
     
 -   Strength is the path to greatness, but greatness is the responsible use of strength.
     
+
+
+## Nomenclature
+Vel'___ - a name given to the highest of worshippers
+
+Velturan - A derogatory name given to a [[Dragonborn]] due to their bloodline, many scaled fellow despise the title unless they have chosen to undertake the Dragonscent

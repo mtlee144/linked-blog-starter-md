@@ -41,3 +41,6 @@ This key forged from the shadows has the ability to lock and unlock memories wit
     
 -   The past holds the path to the future
     
+
+## Nomenclature
+Ravenites or Issylrans - the name bestowed upon followers of the Raven Queen Issylra

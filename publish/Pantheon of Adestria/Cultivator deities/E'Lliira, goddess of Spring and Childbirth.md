@@ -29,3 +29,7 @@ A beautifully round pomegranate, each aril is believed to cause ‘virgin’ pre
 ## Commandments
 
 None
+
+
+## Nomenclature
+Lliirans - Midwives and devout followers of the Joybringer are called this

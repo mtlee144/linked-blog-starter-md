@@ -38,3 +38,7 @@ The Wanderer is an enormous earth elemental that carries trees across Mahra Coul
     
 -   If someone doesn’t want you to do it, then it’s definitely something you need to do.
     
+
+
+## Nomenclature
+Nornites - Exceptional artists have been called descendants of Norn or Nornites

@@ -10,7 +10,7 @@ Since the arrival of the gods, four distinct ages have passed: [[The Dawn]], [[T
 
 
 > [!timeline|t-1] **[[The Age of Conduits]]** _12489AC - 0_  [[The Creator]] brings forth the races and enacts a divine rule that the gods must only act upon the lands using intermediaries though they are physically there.
->![[Conduits.png|center|500]] 
+>![[Conduits.jpg|center|500]] 
 
 > [!timeline|t-l t-1 c-green] **[[Solosian Empire]]** _-_ Unknown when this Empire came to be
 
@@ -48,7 +48,7 @@ Since the arrival of the gods, four distinct ages have passed: [[The Dawn]], [[T
 > [!timeline|t-l c-red] **[[First Crown War]]** _533PD_ Ends 537PD, 4 years later
 > Between [[Blackstone Legion]] and [[Veridian Enclave]]
 
-> [!timeline|t-r c-gray] **[[Sands of Doom]]** *914PD* Insert who stopped [[Belial, The Judge|Kirat]] 
+> [!timeline|t-r c-gray] **[[Sands of Doom]]** *914PD* [[Wilji Luckyflint]] and [[Kingi]] stopped [[Belial, The Judge|Kirat]] 
 
 
 > [!timeline|t-l c-red] **[[Second Crown War]]** _971PD_ Ends 983PD, 12 years later

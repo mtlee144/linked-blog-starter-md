@@ -31,3 +31,13 @@ Belial has no official commandments based on tradition or liturgy but the Holy G
     
 -   For everything, there is an exchange
     
+
+## Nomenclature
+
+##### The [[Holy Guild of Belial#Clergyman|Church of Belial]] have many rankings and clergyman:
+
+Lavanor - Sanctioned Merchants wearing white
+
+Shakhoran - Magic Dealers who wear black
+
+Judges of Bel - Neutral judges 

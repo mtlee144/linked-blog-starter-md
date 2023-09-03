@@ -6,7 +6,7 @@ alias: Tokki
 The realm of Tokki extends to wherever the seas shift and the land grows wild. As the keeper of the forests both present or absent, Tokki represents the wild creatures of nature, the rush of the angry rapids, and the heat-heavy stillness of the desert. 
 <span class="rightimg"><span class="smallimg">![[Tokki.jpg]]</span></span>
 
-Druids dislike his joyful antics that coax the seeds he’s planted to grow as he skips from grove to grove, eschewing a permanent realm; Tokki prefers to wander the plane to oversee natural life, the druids are reluctant to share in this part but never neglect to pay their respects.
+Druids dislike his joyful antics that coax the seeds he’s planted to grow as he skips from grove to grove, eschewing a permanent realm; Tokki preferred to wander the plane to oversee natural life, the druids are reluctant to share in this part but never neglect to pay their respects.
 
   
 
@@ -35,3 +35,7 @@ The records detail a large cracked vessel made from a mysterious metal, able to 
     
 -   Embrace and respect the savage nature of the world. Exist in harmony with it, or don’t.
     
+
+
+## Nomenclature
+Child of Tokki, Caretakers - A title of endearment given to those who pay their respects to the father of forests or who share in his bounty

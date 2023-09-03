@@ -50,4 +50,6 @@ Colloquially known as the Chromatic sword, this glorious weapon shines with bril
 -   Glory above all. There is no glory in cowardice. 
     
 
-  
+
+## Nomenclature
+Tahaaman - Worshippers of Tahaanu though many will also show their devotion to a specific hero

@@ -31,3 +31,8 @@ Found only in the [[Nocturne]], this mirror shows the user what they truly desir
 
 -   The path of Fate is sacrosanct. Those who pridefully attempt to cast off their destiny are fools.
     
+
+
+## Nomenclature
+Dream Weavers - the name for those disciplined in being able to read dreams 
+Moiran - A disciple of the [[Nocturne]] and the Dreamkeeper herself

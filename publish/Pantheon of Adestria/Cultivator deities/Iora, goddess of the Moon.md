@@ -47,3 +47,7 @@ A cloak made of a divine material that is believed to be able to change the time
     
 -   Peace is for all.
     
+
+
+## Nomenclature
+Iorans, Yerahns (name of the moon) - Devout followers of the Moon maiden

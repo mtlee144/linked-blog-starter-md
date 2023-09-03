@@ -34,3 +34,7 @@ A large jewel emits a distinct glow. When other objects are put in its vicinity 
     
 -   The land is firm, unmoving, foundational. Be like Land.
     
+
+
+## Nomenclature
+Ulaans - The priesthood of the Earthen Mother

@@ -44,4 +44,6 @@ These small black silver bells are remnants of [[Emon, god of Death|Emon]]’s p
 -   An inevitability, yet fear it not.
     
 
-  
+## Nomenclature
+Bell Bringers - The vocational disciples of Emon who perform burial rites, their staves are adorned with silver bells
+- Jinglers: A derogatory term for Bell Bringers, often used by the grieving and those who dislike that they require a toll to officially send off the dead

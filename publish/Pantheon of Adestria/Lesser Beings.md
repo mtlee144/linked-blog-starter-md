@@ -29,6 +29,10 @@ Arch-Demon of Greed who is believed to have established the Lost City, yielding 
 
 Once a powerful balor pursuing total annihilation of the [[Feywild]], its magic twisted him, changing his mission to destroy into a quest to heal scarred lands with nature. After the [[Divergence]], Naviask was drawn back to Adestria, where he currently remains, seeking to heal the devastation and ruin that still plague the world.
 
+### Somnus, Dream Eater
+
+Also known as the Night Serpent, Somnus weaves the fabric of dreams and watches over the slumbering souls of both mortal and magical beings. Its presence brings a sense of calm and safety, ensuring that the realm of dreams remains a sanctuary where imagination can roam free. The Night Serpent's scales are said to hold the secrets of countless dreams, each one a story waiting to be told.
+
 ### Vesh, the Bloody Siren
 
 None know whether Vesh is a witch or a demigod, but she has walked Adestria for centuries, seducing those who pry into forbidden magics and drawing them to her as possible suitors. Acolytes cultivate sects of worshipers who engage in ritualistic orgies and masochistic rites, these hedonistic rituals culminating with her selection of a mate. Vesh feeds on the unchosen in a bloody massacre before laying with her selected survivor and vanishing to her realm. Their essences intertwined, she then lends her strength to her mate, watching over them for life.

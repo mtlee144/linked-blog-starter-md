@@ -26,7 +26,7 @@ A’Llonnah’s Blesstide - commonly referred to as A’Llonnah’s day, is held
 ## Vestige
 ### Ring of Eternal Winter
 
-A ring frostforged using snowflakes within the eye of a blizzard. It is recorded to keep its surroundings in eternal winter and is also believed to be able to incite tempests of ice.
+A ring rumoured to have been frostforged using snowflakes within the eye of a blizzard. It is recorded to keep its surroundings in eternal winter and is also believed to be able to incite tempests of ice.
 
 
 
@@ -35,5 +35,11 @@ A ring frostforged using snowflakes within the eye of a blizzard. It is recorded
 -   Cover all the lands with ice, let in the winds and the cold
     
 -   Quench fire wherever it is found
+
+
+## Nomenclature
+Wintress - the name for female followers of A'Llonnah
+Llonnites - a generic term for worshippers of the Lady Frost
+
 
 

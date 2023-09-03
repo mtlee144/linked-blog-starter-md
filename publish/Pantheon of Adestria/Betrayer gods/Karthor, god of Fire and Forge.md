@@ -21,6 +21,8 @@ A molten [[Minotaur]] who cares not for the destruction he leaves in his wake. 
 
 The Burn - A day where a burning competition is held for devout followers of Karthor who spend the whole 24 hours in the sweltering heat of the forge, creating all sorts of metalworks before casting everything that did not win the competition back into the blazing forge. It is fairly common for many competitors to faint during.
 
+It is the only time fire is used to forge in [[Raggen'Thrum]].
+
 
 ## Vestige
 ### Karthor’s Arms
@@ -61,3 +63,8 @@ A flaming pitchfork that creates a fire halo and makes people feared
 -   Patiently, with measured force, strike fiercely, strike hard.
     
 -   If you need something, make it yourself.
+
+
+## Nomenclature
+Forgeheads - Many professional forge workers are known for only being able to think about one thing, completely unaware whilst forging that there is anything else going on around them.
+

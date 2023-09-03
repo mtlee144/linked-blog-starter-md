@@ -1,6 +1,7 @@
 #Worldbuilding 
 
-Adestria has two suns, one white and one black that are in constant orbit of each other. The white sun known as Lavan is believed to grant known life and light to Adestria whilst the black sun, Shakhor, is believed to grant all magic. <span class="rightimg"><span class="smallimg">![[Shakhor.png]]</span></span>
+Adestria has two suns, one white and one black that are in constant orbit of each other. The white sun known as Lavan is believed to grant known life and light to Adestria whilst the black sun, Shakhor, is believed to grant all magic. 
+<span class="rightimg"><span class="smallimg">![[Shakhor.jpg]]</span></span>
 
 They orbit the plane of Adestria with contrary ellipses resulting in celestial phenomena such as:
 
