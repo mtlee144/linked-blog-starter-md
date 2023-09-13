@@ -83,5 +83,5 @@ This would mean a little more work for everyone because we will have to create t
 - Happy to scrap because more work but it'd integrate your characters more into the world.
 
 
-### Hero Forge
-Make a character for it on heroforge 2.0. I will endeavour to make more terrain and maps that we can use it for.
+### Miniatures
+Make a character for it on heroforge 2.0 or Eldritch Foundry. I will endeavour to make more terrain and battle maps that we can use them for

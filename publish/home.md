@@ -1,7 +1,7 @@
 ---
 title: Welcome to Adestria
 banner: "![[Adestria.jpg]]"
-banner_y: 0.18
+banner_y: 0.216
 ---
 
 # Campaign One
@@ -9,6 +9,7 @@ banner_y: 0.18
 - [[Character Creation Helper]]
 #### Sessions
 - [[Session Zero]]
+- [[Session Zero - part two]]
 
 ## Continents
 Several continents span the plane of Adestria 
@@ -128,9 +129,11 @@ Genasi
 - [[Yuan-Ti]]
 
 # Worldbuilding
+Some extra tidbits
 - [[Currency]]
 - [[Celestial Bodies]]
 - [[Known Phenomena]]
+- [[Siegeball]]
 
 - [[Botanical of Adestria]]
 - [[Bestiary of Adestria]]

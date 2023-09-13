@@ -78,7 +78,7 @@ On top of that, I’d love to have you describe a memory that flashes through th
 
   
 
-9 Spoons - character flavour that usually consist of favourite things that your character has: song, drink, guilty pleasure, comfortable environment, first job, nickname, hobbies…
+9 Spoons - character flavour that usually consist of favourite things that your character has, or things he does in their downtime: song, drink, guilty pleasure, comfortable environment, first job, nickname, hobbies…
 
   
 
@@ -264,6 +264,7 @@ If you prefer the RAW versions we can definitely run with it too.
 
 [Adestria - Overview](https://docs.google.com/document/d/1msrFYf6L9NT0cZji_KZV0vRDhOrs-ICLt1R78oq96rI/edit#heading=h.v2cb8tponzs2) - Race Changes
 
+Here's a compendium of some fan made stuff that you're free to try as well, they're japanese inspired - [https://drive.google.com/drive/folders/1k3ujsjPjMU4mSR-LvYhydXk2LqRLAwC1](https://drive.google.com/drive/folders/1k3ujsjPjMU4mSR-LvYhydXk2LqRLAwC1?usp=sharing)
   
   
 
@@ -292,10 +293,11 @@ Here are some questions for each class to think about. Look at the ‘Creating a
 ##### Cleric
 - Do you have liturgy to perform? How often/how devout are you? How do they guide your actions?
 - How did you first come to this faith?
+- Do you have a home temple or church?
 
 ##### Druid
 - Is there a part of nature/element that you have an affinity with? 
-- How far will you go?
+- How far will you go to protect/preserve?
 - Is there a go to wild shape you have? Why/not?
 - Why would you leave the place you’ve been guarding/nurturing?
 
@@ -319,10 +321,13 @@ Here are some questions for each class to think about. Look at the ‘Creating a
 ##### Ranger
 - Is this part of your training or have you completed or not completed it?
 - What are some things that you have learnt about your favoured enemy + favoured terrain?
+- Are you a loner or do you belong to a group/organisation?
 
 ##### Rogue
 - How does your thieves guild operate? 
-- How do they look to the outside world, what about the thieves, was there a hazing process?
+	- What does their dialect of thieves cant look like?
+- How do they look to the outside world, what about the thieves?
+- Was there a hazing process?
 
 ##### Sorcerer
 - How aware of your lineage are you and/or how common is it? Has it changed your physical body?
@@ -343,10 +348,11 @@ Here are some questions for each class to think about. Look at the ‘Creating a
 - What institute did you learn at? 
 - Who was your favourite teacher? 
 - How did you end up choosing a school of magic?
+	- Since you specialise, does this affect the way you cast other spells (less effective, less likely, less fun)
 
 
 ##### Blood Hunter
-- What is your order? 
+- What is your order like? 
 - What made you become a blood hunter as opposed to other things?
 - How do you feel about using blood/pain as an engine for magic - is it gross, cool, masochistic, necessary?
 

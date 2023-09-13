@@ -23,6 +23,8 @@ The marking symbol of the Paradian Empire is a large golden circle, representing
 ### Its Citizens
 There are many races that inhabit the Paradian Empire, as it is largely a civilised kingdom but there is a larger demographic of humans that reside in it.
 
+Citizenship is 
+
 ## [[Union Passage]]
 The Paradian Empire has a reasonably sized district within each of the two factions' areas but its actual residential area is known as the 'Union Passage'. Situated upon the isthmus that connects the East and West parts of Laylan.
 
