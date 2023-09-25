@@ -8,8 +8,8 @@ banner_y: 0.216
 - [[House Rules]]
 - [[Character Creation Helper]]
 #### Sessions
-- [[Session Zero]]
-- [[Session Zero - part two]]
+- [[0 - Session]]
+- [[0.2 - Session Zero]]
 
 ## Continents
 Several continents span the plane of Adestria 
