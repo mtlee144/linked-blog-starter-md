@@ -31,6 +31,9 @@ E.g. I have a wife and child, I’d love them to make an appearance but I don’
 -   What is your biggest secret or the thing you're most ashamed of?
     
 
+Tell me about your family.
+Tell me about your known extended family.
+- Would you still be in contact with either?
   
 
 What is your Character’s gimmick that you can rely on during roleplay moments?

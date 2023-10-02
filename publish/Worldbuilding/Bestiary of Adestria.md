@@ -1,6 +1,6 @@
 #Worldbuilding 
 
-- [[Ashen Rose]]
+
 - [[Berry Ram]]
 - [[Constel-lion]]
 - [[Ember Boar]]

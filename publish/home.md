@@ -10,6 +10,7 @@ banner_y: 0.216
 #### Sessions
 - [[0 - Session]]
 - [[0.2 - Session Zero]]
+- [[0.3 - Session Zero]]
 
 ## Continents
 Several continents span the plane of Adestria 

@@ -2,6 +2,11 @@
 If it is cool and feasible, we doing. 
 For super spicy things that might require a roll we will give advantage
 
+### Finishing Blow
+The end of initiative will be signified by the DM asking "how would you like to do this?"
+
+This is a chance for you to do something special as a finishing blow. This can be fantastical but not out of the realm of possibility.
+
 ## Saving Throws
 On a successful saving throw with damage or healing (if applicable), the roll is halved and rounded down.
 
@@ -10,6 +15,13 @@ PCs roll their save behind the DM screen and shouldn't give away any reaction. D
 
 If there are three successes the player will stabilise in that turn but will be unable to rejoin combat till their next one.
 - clarify rejoining with 1 health
+
+
+### Arcana Check
+Magic is everywhere and fairly easy to sense its presence but you can use an arcana check to attempt to recall any information about magic that could potentially be in the area
+- This is to allow for spells like 'Detect Magic' to still be used 
+
+e.g. You remember that the symbols on the floor are a somatic component of _this_ spell.
 
 ## Stabilising in Combat
 If a PC is stabilised (without healing) and returns to combat the PC returns with another level of [exhaustion](https://www.dndbeyond.com/sources/phb/appendix-a-conditions#Exhaustion) that lasts for an hour.
