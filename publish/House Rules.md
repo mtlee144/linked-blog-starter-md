@@ -120,6 +120,10 @@ Tracking encumbrance is annoying. If it seems like you can't carry everything th
 It is ultimately up to you how you want to organise your currency on your sheets and how you want to add to or remove increments. i.e. exchanging from a [[Currency#Paradia|Platinum Paradia]] into a smaller increment is fine and it'll be up to you on how to manage that on your character sheet.
 
 
+## No Ammunition
+Sack checking how much ammo you have and having to recollect (unless it's something like a revolver with 6 bullets).
+
+We will only take this into account if something occurs within the game where you happen to lose all equipment/arrows 
 ## Calendar's
 Don't worry about tracking days, it's painful and I'll honestly forget. Just let the days/events happen.
 

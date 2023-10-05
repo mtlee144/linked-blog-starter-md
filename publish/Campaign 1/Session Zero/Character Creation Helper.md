@@ -142,7 +142,8 @@ I would love to homebrew something with you, to personalise a part of a characte
 
 Appearance-wise what makes your character stand out? Do they stand out? Any fashion quirks? Build? Identifying marks or scars? If they’re an anthropomorphic animal like tabaxi, what kind of cat?
 
-  
+
+Based on the personality you've created for this character, how is it reflected in their appearance and vice-versa?
 
 What is the motif your appearance is built around, a colour scheme? If they’re obsessed with fire, how would that affect the way they dress or the magic they use? 
 
