@@ -21,7 +21,7 @@ If there are three successes the player will stabilise in that turn but will be 
 Magic is everywhere and fairly easy to sense its presence but you can use an arcana check to attempt to recall any information about magic that could potentially be in the area
 - This is to allow for spells like 'Detect Magic' to still be used 
 
-e.g. You remember that the symbols on the floor are a somatic component of _this_ spell.
+e.g. You remember that the symbols on the floor are a somatic component of a certain spell.
 
 ## Stabilising in Combat
 If a PC is stabilised (without healing) and returns to combat the PC returns with another level of [exhaustion](https://www.dndbeyond.com/sources/phb/appendix-a-conditions#Exhaustion) that lasts for an hour.
